@@ -4,12 +4,12 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/Gabrrpr/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="https://i.pinimg.com/564x/17/e2/f8/17e2f86ed3833e19314ddbf1f5511295.jpg"alt="Nyebe" width="130" height="100">
   </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+<!-- TODO: Seatwork #2 -->
+  <h3 align="center">Seatwork #2</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
@@ -20,7 +20,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![]()
 
 ---
 
@@ -68,15 +68,13 @@ Guiding Question:
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Keyframe Animation Transition.
+- Button Animation
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules and Principles
 1. Always use ***WD-*** in the Title of the Project for the Subject
@@ -110,5 +108,19 @@ WD-ProjectName
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
-|-|-|-|
+| Fogs on Green Mountain | Background Img | https://images.pexels.com |
+| Sunset Sky | Background Img | https://img.freepik.com |
+| Dark black polygonal illustration | Background img | https://www.pinterest.ph/pin/912190099525614252 |
+| Containers | Transitions | https://www.w3schools.com/w3css/w3css_containers.asp |
+| Shadow Box | Button Effect/Design | https://getcssscan.com/css-box-shadow-examples |
+
+
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+
+## Documentation
+
+| Date: | 5/10/2024: | Building a wireframe |
+| Date: | 5/11/2024: | Fixing Style errors and formatting |
+| Date: | 5/14/2024: |  Rebuilding the format |
+| Date: | 5/15/2024: | Learning and application of webpages |
+| Date: | 5/16/2024: | Designing and applying transitions on webpages |
